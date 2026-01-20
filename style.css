@@ -109,11 +109,10 @@ padding-right:625px;
 .podcast{
   overflow: hidden;
 }
-
-    .podcast{
+.podcast{
         background-color: #1A0B2E;
          max-width:1600px;
-    }
+         }
 .podcast-text{
     padding-top: 50px;
     padding-bottom: 40px; 
@@ -153,7 +152,6 @@ padding-right:625px;
 .container{
     display: grid;
     grid-template-columns:repeat(3, 1fr);
-     
     gap:30px;  
     grid-template-rows: auto;
 }
@@ -205,8 +203,7 @@ padding-right:625px;
 .box-2 h4{
      font-size: 24px;
     font-weight: bold;
-    color:#FFFFFF;
-    
+    color:#FFFFFF;  
 }
 .box-1 p ,.box-2 p ,.box-3 p ,.box-4 p,.box-5 p{
     font-size: 16px;
@@ -337,14 +334,10 @@ gap:8px;
   .box{
     padding: 48px 16px;
   }
-
- 
   .container{
     grid-template-columns: 1fr;
     gap: 16px;
   }
-
- 
   .box-1,
   .box-2,
   .box-3,
@@ -361,8 +354,6 @@ gap:8px;
     font-size: 28px;
     margin-bottom: 24px;
   }
-
- 
   .box-1 h4,
   .box-2 h4,
   .box-3 h4,
@@ -370,8 +361,6 @@ gap:8px;
   .box-5 h4{
     font-size: 18px;
   }
-
- 
   .box-1 p,
   .box-2 p,
   .box-3 p,
@@ -380,8 +369,6 @@ gap:8px;
     font-size: 14px;
     line-height: 1.5;
   }
-
- 
   .box img{
     width: 32px;
     height: auto;
