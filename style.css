@@ -37,7 +37,7 @@ padding:16px 40px;
      color: #FB09B4;
 }
 .text{
-     margin-left : 200px;
+    margin-left : 200px;
     color: #FFFFFF;
     justify-content: center;
 }
@@ -201,10 +201,7 @@ padding-right:625px;
   font-size: 24px;
   font-weight: bold;
   color:#FFFFFF;
-  
 }
-
- 
 .box-2 h4{
      font-size: 24px;
     font-weight: bold;
@@ -258,7 +255,7 @@ font-size: 48px;
 font-weight: bold;
 }
 .host-container{
-    background-color: #412567;
+background-color: #412567;
  margin-top: 40px;  
 margin-left: 200px;
 margin-right: 200px;
@@ -299,7 +296,6 @@ display: flex;
  max-width: 1600px;
  padding-top: 120px;
  padding-bottom: 120px;
- 
 }
  .footer-text h1{
     font-size: 64px;
